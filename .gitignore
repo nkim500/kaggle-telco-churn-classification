@@ -1,7 +1,6 @@
 .vscode
 .venv/
 
-data*
 asdf.*
 pickle_jar/*
 1/*
